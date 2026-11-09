@@ -6,6 +6,7 @@ Leetcode code push to github
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omkar8087/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/omkar8087/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/omkar8087/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkar8087/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -13,6 +14,7 @@ Leetcode code push to github
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omkar8087/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/omkar8087/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/omkar8087/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkar8087/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -34,4 +36,8 @@ Leetcode code push to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/omkar8087/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/omkar8087/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
