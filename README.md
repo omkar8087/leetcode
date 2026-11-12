@@ -22,6 +22,7 @@ Leetcode code push to github
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkar8087/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/omkar8087/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/omkar8087/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/omkar8087/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,5 @@ Leetcode code push to github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/omkar8087/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/omkar8087/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
