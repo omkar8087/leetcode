@@ -32,6 +32,7 @@ Leetcode code push to github
 | ------- | ------- |
 | [0015-3sum](https://github.com/omkar8087/leetcode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/omkar8087/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/omkar8087/leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,5 @@ Leetcode code push to github
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/omkar8087/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/omkar8087/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/omkar8087/leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
