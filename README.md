@@ -25,6 +25,7 @@ Leetcode code push to github
 | [0283-move-zeroes](https://github.com/omkar8087/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/omkar8087/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/omkar8087/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/omkar8087/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/omkar8087/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ Leetcode code push to github
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/omkar8087/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/omkar8087/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0647-palindromic-substrings](https://github.com/omkar8087/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ Leetcode code push to github
 | [0125-valid-palindrome](https://github.com/omkar8087/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/omkar8087/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/omkar8087/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/omkar8087/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/omkar8087/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/omkar8087/leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Manacher
